@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>My Personal Website</title>
@@ -26,3 +26,11 @@
 </body>
 </html>
 
+}{}[}] 
+[lclpflpfl
+e[f[elw
+ep
+f;w
+lf[elf
+ef
+]ew
